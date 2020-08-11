@@ -1,6 +1,6 @@
 # Topic Plan
 
-1. Generators
+1. List and Dictionary Comprehension
 2. Lambdas
 3. Decorators
 4. Threading
