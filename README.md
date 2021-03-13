@@ -1,8 +1,9 @@
 # Topic Plan
 
 1. List and Dictionary Comprehension
-2. Lambdas
-3. Decorators
-4. Threading
-5. Type Hinting
-6. pep8
+2. Time Complexity
+3. Lambdas
+4. Decorators
+5. Threading
+6. Type Hinting
+7. pep8
