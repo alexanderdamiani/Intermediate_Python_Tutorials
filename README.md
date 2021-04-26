@@ -1,9 +1,1 @@
-# Topic Plan
-
-1. List and Dictionary Comprehension
-2. Time Complexity
-3. Lambdas
-4. Decorators
-5. Threading
-6. Type Hinting
-7. pep8
+[Youtube playlist](https://www.youtube.com/watch?v=IHEu6WTnDto&list=PL0dOL8Z7pG3I9QVAyxXHClXUY8P_Qddv9&index=1)
